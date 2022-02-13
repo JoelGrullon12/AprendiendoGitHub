@@ -1,0 +1,8 @@
+git                                             Master de todo
+git init                                        Iniciar repositorio
+git add "archivo"                               Agregar archivo
+git add .                                       Agregar todos los archivos
+git commit -m "mensaje"                         Agregar Checkpoint
+git config --global user.name "Nombre"          Configurar tu nombre en el sistema.
+git config --global user.email "email@server"   Configurar tu email en el sistema.
+git status                                      Ver estado de los cambios por ser confirmados
