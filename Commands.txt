@@ -6,3 +6,5 @@ git commit -m "mensaje"                         Agregar Checkpoint
 git config --global user.name "Nombre"          Configurar tu nombre en el sistema.
 git config --global user.email "email@server"   Configurar tu email en el sistema.
 git status                                      Ver estado de los cambios por ser confirmados
+git push repositorio rama                       Subir y guardar cambios en el repositorio
+git pull repositorio rama                       Recopilar cambios hechos por otra persona en el repositorio
